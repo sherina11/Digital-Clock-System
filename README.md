@@ -1,4 +1,4 @@
-# 🕒 Digital Clock System (C Project)
+# 🕒 Digital Clock System 
 
 ## 📌 Description
 This project is developed using the C programming language.  
